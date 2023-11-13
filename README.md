@@ -50,7 +50,7 @@ Run the following command in terminal to install the required packages.
 `pip3 install -r requirements.txt` 
 
 clone the repository to your local machine:
-                  `https://github.com/JayabharathiG/credit_card_ibm.git`
+                  `https://github.com/Dhanushyam123/ADS_Phase1.git`
 run the jupyter notebook file.
 
 in your web browser navigate the file and open it.
